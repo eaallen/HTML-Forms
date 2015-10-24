@@ -48,7 +48,8 @@ We are building a view that displays a sign in form to the user and submits the 
 
 ### Download Starter Code
 
-Run the project and make sure it displays an empty view for us to build our form in
+- You can download this project by clicking the download "Download ZIP" button on the right side of this page
+- Run the project and make sure it displays an empty view for us to build our form in
 
 ![inital load screen when running the project](images/initial-run.png)
 
