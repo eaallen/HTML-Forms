@@ -119,4 +119,6 @@ Html.BeginForm("Action Name", "Controller Name", new { @class = "form-signin" })
 ```
 ### Done!
 
+You now have a working sign in form 
+
 ![picture of complete product](images/finished.png)
