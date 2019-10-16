@@ -1,7 +1,7 @@
 # .NET HTML Forms
 
 This tutorial about HTML forms will take less than 30 minutes
-Improved by Eli.
+Improved by Eli and his pop.
 
 ## Introduction
 
