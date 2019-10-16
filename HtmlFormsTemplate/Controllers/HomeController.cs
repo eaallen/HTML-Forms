@@ -13,5 +13,17 @@ namespace HtmlFormsTemplate.Controllers
             return View();
         }
 
+        [HttpPost]
+        public string Sign_up(FormCollection form)
+        {
+            string name = form["Name"].ToString();
+            string email = form["Email address"].ToString();
+            string password = form["Password"].ToString();
+            
+            return "Signing in : "+ "<strong>" + name+ "</strong>"+" <br>with an email address of: "  +"<strong>"+email + "</strong>";
+
+            
+        }
+
     }
 }
